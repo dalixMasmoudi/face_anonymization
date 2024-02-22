@@ -15,9 +15,9 @@ I'm currently exploring the use of Generative Adversarial Networks (GANs) to fur
 To use this project, simply clone the repository and follow the instructions in the documentation.
 
 bash
-Copy code
+
 git clone https://github.com/your-username/tech-powered-talent-showcase.git
-cd tech-powered-talent-showcase
+
 # Follow setup instructions in the documentation
 Contribution
 Contributions are welcome! If you have any ideas for improvements or feature requests, feel free to open an issue or submit a pull request.
